@@ -22,7 +22,7 @@ body {
 	display: grid;
     place-items: center;
     font-family: 'Libre Franklin', sans-serif;
-    margin: 5.5rem 1rem;
+    margin: 5.5rem 2rem;
     min-height: 100vh;
 }
 
