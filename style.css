@@ -19,10 +19,10 @@
 
 body {
 
-	display: grid;
+    display: grid;
     place-items: center;
     font-family: 'Libre Franklin', sans-serif;
-    margin: 5.5rem 1.5rem;
+    margin: 4.5rem 1.5rem;
     min-height: 100vh;
 }
 
